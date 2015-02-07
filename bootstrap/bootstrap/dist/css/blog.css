@@ -1,0 +1,8 @@
+﻿.dropdown {
+    display:inline-block;
+}
+
+#alert_placeholder {
+    background-color:azure;
+    box-shadow: inset 0 0 2px green;
+}
